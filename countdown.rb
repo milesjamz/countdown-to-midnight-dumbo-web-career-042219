@@ -9,6 +9,7 @@ def countdown(count)
 if count == 0
 puts "HAPPY NEW YEAR!"
 end
+end
 
 def countdown_with_sleep(count)
   count = 10
@@ -19,4 +20,5 @@ def countdown_with_sleep(count)
   end
 if count == 0
 puts "HAPPY NEW YEAR!"
+end
 end
